@@ -1,5 +1,7 @@
 -- MySQL dump 10.13  Distrib 5.7.25, for Linux (x86_64)
 --// HHHHHHHHHHHHHHHHHHHHHHHEEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOOOO
+//cccccccccccccccccccccccccccccc
+// dddddddddddddddddddddddddddddddddddddd
 -- Host: 127.0.0.1    Database: qbis
 -- ------------------------------------------------------
 -- Server version	5.7.25-0ubuntu0.18.04.2
